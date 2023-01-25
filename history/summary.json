@@ -4,19 +4,19 @@
     "url": "https://radiome.ga",
     "icon": "https://icons.duckduckgo.com/ip3/radiome.ga.ico",
     "slug": "radiomega-redirect",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3178,
-    "timeDay": 4960,
-    "timeWeek": 3178,
-    "timeMonth": 3178,
-    "timeYear": 3178,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 2916,
+    "timeDay": 2757,
+    "timeWeek": 2916,
+    "timeMonth": 2916,
+    "timeYear": 2916,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://radiomega.neocities.org/",
     "icon": "https://icons.duckduckgo.com/ip3/radiomega.neocities.org.ico",
     "slug": "radiomega-neocities",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 23,
-    "timeDay": 12,
-    "timeWeek": 23,
-    "timeMonth": 23,
-    "timeYear": 23,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 24,
+    "timeDay": 21,
+    "timeWeek": 24,
+    "timeMonth": 24,
+    "timeYear": 24,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 18
     }
   },
   {
