@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 2989,
-    "timeDay": 647,
-    "timeWeek": 2775,
-    "timeMonth": 2989,
-    "timeYear": 2989,
+    "time": 3096,
+    "timeDay": 4925,
+    "timeWeek": 3123,
+    "timeMonth": 3096,
+    "timeYear": 3096,
     "dailyMinutesDown": {
       "2023-01-25": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/radiomega.neocities.org.ico",
     "slug": "radiomega-neocities",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 24,
-    "timeDay": 22,
-    "timeWeek": 24,
-    "timeMonth": 24,
-    "timeYear": 24,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 23,
+    "timeDay": 12,
+    "timeWeek": 22,
+    "timeMonth": 23,
+    "timeYear": 23,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3569,
-    "timeDay": 4701,
-    "timeWeek": 3826,
-    "timeMonth": 3569,
-    "timeYear": 3569,
+    "time": 3402,
+    "timeDay": 731,
+    "timeWeek": 3404,
+    "timeMonth": 3402,
+    "timeYear": 3402,
     "dailyMinutesDown": {}
   }
 ]
