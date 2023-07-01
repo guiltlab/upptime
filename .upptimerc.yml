@@ -8,7 +8,7 @@ sites:
   - name: Radiomega (neocities)
     url: https://radiomega.neocities.org/   
   - name: Radiomega (redirect)
-    url: https://radiome.ga
+    url: https://bringthenoi.se
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
