@@ -35,35 +35,39 @@
     "url": "https://bringthenoi.se",
     "icon": "https://icons.duckduckgo.com/ip3/bringthenoi.se.ico",
     "slug": "bring-the-noise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 418,
-    "timeWeek": 215,
-    "timeMonth": 213,
-    "timeYear": 191,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 264,
+    "timeWeek": 201,
+    "timeMonth": 210,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "CF Pages",
     "url": "https://bringthenoise.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/bringthenoise.pages.dev.ico",
     "slug": "cf-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 128,
-    "timeWeek": 115,
+    "timeDay": 110,
+    "timeWeek": 112,
     "timeMonth": 110,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   }
 ]
