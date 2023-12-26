@@ -4,7 +4,7 @@
     "url": "$EMBED_PLAYER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-stream",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 687,
     "timeYear": 1067,
     "dailyMinutesDown": {
+      "2023-12-26": 0,
       "2023-12-22": 224,
       "2023-11-09": 78,
       "2023-10-07": 70,
