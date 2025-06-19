@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-stream",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.13%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "97.88%",
-    "time": 931,
-    "timeDay": 927,
-    "timeWeek": 2573,
-    "timeMonth": 1961,
-    "timeYear": 995,
+    "time": 930,
+    "timeDay": 786,
+    "timeWeek": 2567,
+    "timeMonth": 1959,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2025-06-16": 288,
       "2025-06-15": 116,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 263,
-    "timeDay": 407,
-    "timeWeek": 235,
-    "timeMonth": 223,
+    "timeDay": 273,
+    "timeWeek": 251,
+    "timeMonth": 224,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2024-10-16": 477
@@ -78,9 +78,9 @@
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 138,
-    "timeWeek": 130,
-    "timeMonth": 154,
-    "timeYear": 136,
+    "timeWeek": 135,
+    "timeMonth": 152,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   }
 ]
