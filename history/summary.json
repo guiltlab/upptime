@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-stream",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "97.88%",
-    "time": 936,
-    "timeDay": 755,
-    "timeWeek": 929,
-    "timeMonth": 2012,
-    "timeYear": 1004,
+    "time": 937,
+    "timeDay": 741,
+    "timeWeek": 905,
+    "timeMonth": 2001,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2025-06-16": 288,
       "2025-06-15": 116,
@@ -41,8 +41,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 932,
       "2024-08-18": 144,
-      "2024-08-02": 856,
-      "2024-06-28": 87
+      "2024-08-02": 856
     }
   },
   {
@@ -57,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 265,
-    "timeDay": 180,
-    "timeWeek": 310,
-    "timeMonth": 256,
+    "timeDay": 227,
+    "timeWeek": 308,
+    "timeMonth": 257,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2024-10-16": 477
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 153,
-    "timeWeek": 155,
-    "timeMonth": 151,
+    "timeDay": 136,
+    "timeWeek": 144,
+    "timeMonth": 150,
     "timeYear": 138,
     "dailyMinutesDown": {}
   }
