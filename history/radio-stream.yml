@@ -1,7 +1,7 @@
 url: $EMBED_PLAYER
-status: down
-code: 522
-responseTime: 19375
-lastUpdated: 2025-09-16T23:10:16.261Z
+status: up
+code: 200
+responseTime: 743
+lastUpdated: 2025-09-17T17:28:51.252Z
 startTime: 2023-01-19T14:38:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
