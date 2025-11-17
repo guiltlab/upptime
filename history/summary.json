@@ -6,15 +6,15 @@
     "slug": "radio-stream",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "83.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.58%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "98.48%",
-    "time": 1297,
-    "timeDay": 5585,
-    "timeWeek": 2845,
-    "timeMonth": 1960,
-    "timeYear": 1427,
+    "uptimeYear": "98.72%",
+    "time": 1296,
+    "timeDay": 716,
+    "timeWeek": 2798,
+    "timeMonth": 1958,
+    "timeYear": 1425,
     "dailyMinutesDown": {
       "2025-11-15": 244,
       "2025-10-17": 79,
@@ -37,8 +37,7 @@
       "2024-12-27": 388,
       "2024-11-26": 158,
       "2024-11-25": 34,
-      "2024-11-24": 38,
-      "2024-11-17": 1149
+      "2024-11-24": 38
     }
   },
   {
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 220,
-    "timeWeek": 285,
-    "timeMonth": 308,
-    "timeYear": 266,
+    "time": 253,
+    "timeDay": 225,
+    "timeWeek": 274,
+    "timeMonth": 307,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   },
   {
@@ -71,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 116,
-    "timeWeek": 149,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "timeDay": 124,
+    "timeWeek": 151,
+    "timeMonth": 148,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   }
 ]
