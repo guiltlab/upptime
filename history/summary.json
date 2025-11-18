@@ -46,19 +46,19 @@
     "url": "https://bringthenoi.se",
     "icon": "https://icons.duckduckgo.com/ip3/bringthenoi.se.ico",
     "slug": "bring-the-noise",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "90.47%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
     "time": 253,
-    "timeDay": 235,
-    "timeWeek": 257,
-    "timeMonth": 296,
-    "timeYear": 265,
+    "timeDay": 262,
+    "timeWeek": 270,
+    "timeMonth": 299,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-11-18": 137
+      "2025-11-18": 158
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://bringthenoise.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/bringthenoise.pages.dev.ico",
     "slug": "cf-pages",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "90.47%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
     "time": 144,
-    "timeDay": 107,
-    "timeWeek": 123,
-    "timeMonth": 140,
+    "timeDay": 114,
+    "timeWeek": 126,
+    "timeMonth": 141,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-11-18": 137
+      "2025-11-18": 158
     }
   }
 ]
