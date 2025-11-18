@@ -4,17 +4,17 @@
     "url": "$EMBED_PLAYER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-stream",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.58%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "98.91%",
-    "time": 1296,
-    "timeDay": 765,
-    "timeWeek": 2766,
-    "timeMonth": 1446,
-    "timeYear": 1428,
+    "time": 1295,
+    "timeDay": 549,
+    "timeWeek": 2545,
+    "timeMonth": 1414,
+    "timeYear": 1425,
     "dailyMinutesDown": {
       "2025-11-15": 244,
       "2025-10-17": 79,
@@ -47,9 +47,9 @@
     "slug": "bring-the-noise",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 186,
@@ -57,7 +57,7 @@
     "timeMonth": 301,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   },
   {
@@ -66,10 +66,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bringthenoise.pages.dev.ico",
     "slug": "cf-pages",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 129,
@@ -77,7 +77,7 @@
     "timeMonth": 146,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   }
 ]
