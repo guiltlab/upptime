@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.96%",
-    "time": 1297,
-    "timeDay": 679,
-    "timeWeek": 863,
-    "timeMonth": 1390,
-    "timeYear": 1507,
+    "time": 1296,
+    "timeDay": 756,
+    "timeWeek": 848,
+    "timeMonth": 1388,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-02-25": 170,
       "2026-02-03": 52,
@@ -35,8 +35,7 @@
       "2025-05-09": 822,
       "2025-04-10": 28,
       "2025-04-07": 276,
-      "2025-03-09": 39,
-      "2025-03-07": 498
+      "2025-03-09": 39
     }
   },
   {
@@ -45,20 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bringthenoi.se.ico",
     "slug": "bring-the-noise",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 125,
-    "timeWeek": 181,
-    "timeMonth": 211,
-    "timeYear": 256,
-    "dailyMinutesDown": {
-      "2025-12-20": 20,
-      "2025-11-18": 187
-    }
+    "timeDay": 218,
+    "timeWeek": 184,
+    "timeMonth": 206,
+    "timeYear": 255,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CF Pages",
@@ -72,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 146,
-    "timeDay": 103,
-    "timeWeek": 126,
-    "timeMonth": 129,
+    "timeDay": 189,
+    "timeWeek": 129,
+    "timeMonth": 130,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2025-11-18": 158
