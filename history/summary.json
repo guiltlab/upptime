@@ -10,10 +10,10 @@
     "uptimeWeek": "97.39%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.23%",
-    "time": 1520,
-    "timeDay": 876,
-    "timeWeek": 939,
-    "timeMonth": 1380,
+    "time": 1489,
+    "timeDay": 796,
+    "timeWeek": 968,
+    "timeMonth": 1379,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-11-15": 244,
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 232,
-    "timeDay": 250,
-    "timeWeek": 269,
-    "timeMonth": 249,
+    "timeDay": 181,
+    "timeWeek": 252,
+    "timeMonth": 244,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-11-18": 187,
@@ -64,16 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bringthenoise.pages.dev.ico",
     "slug": "cf-pages",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 135,
-    "timeDay": 226,
-    "timeWeek": 178,
-    "timeMonth": 145,
+    "timeDay": 127,
+    "timeWeek": 179,
+    "timeMonth": 141,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 158
+    }
   }
 ]
